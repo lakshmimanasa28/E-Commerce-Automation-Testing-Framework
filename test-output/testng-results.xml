@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-14T23:24:10 IST" name="AutomationExerciseSuite" finished-at="2026-04-14T23:29:45 IST" duration-ms="335586">
+    <groups>
+    </groups>
+    <test started-at="2026-04-14T23:24:10 IST" name="Signup Test" finished-at="2026-04-14T23:26:27 IST" duration-ms="137234">
+      <class name="com.srm.tests.SignupTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:24:14 IST" name="setUp" finished-at="2026-04-14T23:24:33 IST" duration-ms="19134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signupTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:24:33 IST" name="signupTest" data-provider="signupData" finished-at="2026-04-14T23:24:52 IST" duration-ms="19767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Doe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mrs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sailajabyreddy@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[SRM]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[street 1]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[guntur]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Andhra Pradesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[542201]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:24:53 IST" name="tearDown" finished-at="2026-04-14T23:24:54 IST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:24:54 IST" name="setUp" finished-at="2026-04-14T23:25:01 IST" duration-ms="6795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signupTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:25:01 IST" name="signupTest" data-provider="signupData" finished-at="2026-04-14T23:25:18 IST" duration-ms="16734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[aishwaryakatakamsetty@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[789456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[KL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[street 2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Vijayawada]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Andhra Pradesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[544203]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[1236985478]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:25:18 IST" name="tearDown" finished-at="2026-04-14T23:25:19 IST" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:25:19 IST" name="setUp" finished-at="2026-04-14T23:25:45 IST" duration-ms="25511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signupTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:25:45 IST" name="signupTest" data-provider="signupData" finished-at="2026-04-14T23:26:26 IST" duration-ms="41252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[San]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[das]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mrs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2009]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[paruchurisantosh@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[20605]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[LM]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[street 1]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Vizag]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Andhra Pradesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[500762]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.SignupTest@17503f6b]" started-at="2026-04-14T23:26:26 IST" name="tearDown" finished-at="2026-04-14T23:26:27 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.srm.tests.SignupTest -->
+    </test> <!-- Signup Test -->
+    <test started-at="2026-04-14T23:26:28 IST" name="Login Test" finished-at="2026-04-14T23:27:43 IST" duration-ms="74524">
+      <class name="com.srm.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:26:28 IST" name="setUp" finished-at="2026-04-14T23:26:40 IST" duration-ms="11702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:26:40 IST" name="loginTest" data-provider="signupData" finished-at="2026-04-14T23:27:03 IST" duration-ms="23420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Doe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mrs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sailajabyreddy@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[SRM]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[street 1]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[guntur]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Andhra Pradesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[542201]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:04 IST" name="tearDown" finished-at="2026-04-14T23:27:05 IST" duration-ms="1543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:05 IST" name="setUp" finished-at="2026-04-14T23:27:13 IST" duration-ms="7531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:13 IST" name="loginTest" data-provider="signupData" finished-at="2026-04-14T23:27:24 IST" duration-ms="11447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[aishwaryakatakamsetty@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[789456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[KL]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[street 2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Vijayawada]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Andhra Pradesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[544203]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[1236985478]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:24 IST" name="tearDown" finished-at="2026-04-14T23:27:25 IST" duration-ms="565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:25 IST" name="setUp" finished-at="2026-04-14T23:27:32 IST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:32 IST" name="loginTest" data-provider="signupData" finished-at="2026-04-14T23:27:42 IST" duration-ms="9333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[San]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[das]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mrs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2009]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[paruchurisantosh@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[20605]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[LM]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[street 1]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Vizag]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Andhra Pradesh]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[500762]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.LoginTest@928763c]" started-at="2026-04-14T23:27:42 IST" name="tearDown" finished-at="2026-04-14T23:27:43 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.srm.tests.LoginTest -->
+    </test> <!-- Login Test -->
+    <test started-at="2026-04-14T23:27:43 IST" name="Products Test" finished-at="2026-04-14T23:28:39 IST" duration-ms="56548">
+      <class name="com.srm.tests.ProductsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.ProductsTest@dc9876b]" started-at="2026-04-14T23:27:43 IST" name="setUp" finished-at="2026-04-14T23:27:52 IST" duration-ms="9341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProductTest()[pri:0, instance:com.srm.tests.ProductsTest@dc9876b]" started-at="2026-04-14T23:27:52 IST" name="searchProductTest" finished-at="2026-04-14T23:28:38 IST" duration-ms="45833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.ProductsTest@dc9876b]" started-at="2026-04-14T23:28:38 IST" name="tearDown" finished-at="2026-04-14T23:28:39 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.srm.tests.ProductsTest -->
+    </test> <!-- Products Test -->
+    <test started-at="2026-04-14T23:28:39 IST" name="Checkout Flow Test" finished-at="2026-04-14T23:29:25 IST" duration-ms="45617">
+      <class name="com.srm.tests.CheckoutFlowTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.CheckoutFlowTest@75c56eb9]" started-at="2026-04-14T23:28:39 IST" name="setUp" finished-at="2026-04-14T23:28:42 IST" duration-ms="2437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fullCheckoutFlow()[pri:0, instance:com.srm.tests.CheckoutFlowTest@75c56eb9]" started-at="2026-04-14T23:28:42 IST" name="fullCheckoutFlow" finished-at="2026-04-14T23:29:24 IST" duration-ms="42593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullCheckoutFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.CheckoutFlowTest@75c56eb9]" started-at="2026-04-14T23:29:24 IST" name="tearDown" finished-at="2026-04-14T23:29:25 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.srm.tests.CheckoutFlowTest -->
+    </test> <!-- Checkout Flow Test -->
+    <test started-at="2026-04-14T23:29:25 IST" name="Validation Test" finished-at="2026-04-14T23:29:45 IST" duration-ms="20298">
+      <class name="com.srm.tests.ValidationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.ValidationTest@56dc1551]" started-at="2026-04-14T23:29:25 IST" name="setUp" finished-at="2026-04-14T23:29:32 IST" duration-ms="7116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="emptyLoginTest()[pri:0, instance:com.srm.tests.ValidationTest@56dc1551]" started-at="2026-04-14T23:29:32 IST" name="emptyLoginTest" finished-at="2026-04-14T23:29:33 IST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.ValidationTest@56dc1551]" started-at="2026-04-14T23:29:34 IST" name="tearDown" finished-at="2026-04-14T23:29:34 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.srm.tests.ValidationTest@56dc1551]" started-at="2026-04-14T23:29:34 IST" name="setUp" finished-at="2026-04-14T23:29:37 IST" duration-ms="2479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.srm.tests.ValidationTest@56dc1551]" started-at="2026-04-14T23:29:37 IST" name="invalidLoginTest" finished-at="2026-04-14T23:29:44 IST" duration-ms="7810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.srm.tests.ValidationTest@56dc1551]" started-at="2026-04-14T23:29:45 IST" name="tearDown" finished-at="2026-04-14T23:29:45 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.srm.tests.ValidationTest -->
+    </test> <!-- Validation Test -->
+  </suite> <!-- AutomationExerciseSuite -->
+</testng-results>
