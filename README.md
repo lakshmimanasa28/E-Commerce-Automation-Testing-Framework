@@ -41,9 +41,19 @@ It automates end-to-end user workflows such as login, product search, cart manag
 
 ---
 
-##  Screenshots
+## Screenshots
 
-Screenshots are available in the `/screenshot` folder.
+### Login
+![Login](screenshots/login.png)
+
+### Search Product
+![Search](screenshots/search.png)
+
+### Products Page
+![Products](screenshots/products.png)
+
+### Order Success
+![Order](screenshots/order.png)
 
 ---
 
